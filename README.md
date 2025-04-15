@@ -1,5 +1,5 @@
 # 🧠 Insurance Premium Prediction Model
-This project uses a dense neural networkmodel built with TensorFlow/Keras to predict insurance premiums based on user features such as age, BMI, smoking status, etc. The goal is to provide a quick and interpretable solution to estimate insurance charges.
+This project uses a dense neural networkmodel built with TensorFlow/Keras to predict insurance premiums based on user features such as age, BMI, smoking status, etc. The goal is to provide a quick and interpretable solution to estimate insurance charges. This model was built using the starter code provided by freeCodeCamp as part of their Machine Learning with Python course. The lesson is available here: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator
 
 ## 📊 Dataset
 The model uses the popular Medical Cost Personal Dataset, which includes:
@@ -30,7 +30,7 @@ Metrics: Mean Absolute Error (MAE)
 - Validation MAE: ~2 500
 - Testing MAE: ~2 500
 
-🧮 Real-World Use Cases
+## 🧮 Real-World Use Cases
 1) Use Case #1: Individuals estimating insurance costs.
    A person could use this model to estimate how much they might be quoted for a health insurance plan, given their personal details. It helps consumers understand which factors most impact their      premiums.
 
