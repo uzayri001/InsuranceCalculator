@@ -26,6 +26,6 @@ Loss Function: Mean Squared Error (MSE)
 Metrics: Mean Absolute Error (MAE)
 
 ## 📉 Performance
-Training MAE: ~13,000
-
-Validation MAE: ~12,000
+Training MAE: ~2 500
+Validation MAE: ~2 500
+Testing MAE: ~2 500
