@@ -26,6 +26,14 @@ Loss Function: Mean Squared Error (MSE)
 Metrics: Mean Absolute Error (MAE)
 
 ## 📉 Performance
-Training MAE: ~2 500
-Validation MAE: ~2 500
-Testing MAE: ~2 500
+- Training MAE: ~2 500
+- Validation MAE: ~2 500
+- Testing MAE: ~2 500
+
+🧮 Real-World Use Cases
+1) Use Case #1: Individuals estimating insurance costs.
+   A person could use this model to estimate how much they might be quoted for a health insurance plan, given their personal details. It helps consumers understand which factors most impact their      premiums.
+
+3) Use Case #2: Insurance companies pricing plans.
+   Insurers can use this model (or more advanced versions) to automatically generate premium quotes for new applicants, based on risk factors.
+   It’s essentially a pricing tool that helps predict what to charge a person and create more optimized pricing plans.
